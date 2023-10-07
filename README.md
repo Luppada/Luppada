@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luppada
-- 👀 I’m interested in Data Science and BI
-- 🌱 I’m currently learning Scala, Spark, PowerBI
+- 👀 I’m interested in Data Science and Business Intelligence
+- 🌱 I’m currently learning  Spark, PowerBI
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me - Shoot me a text on LinkedIN @ Likhith Sri Vatsa Uppada
 
